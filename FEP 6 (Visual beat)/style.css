@@ -1,0 +1,16 @@
+#logo{
+    width: 300px;
+    min-height: 300px;
+    border-radius: 50%;
+    background: rgb(93, 243, 125);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+}
